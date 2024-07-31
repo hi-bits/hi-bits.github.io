@@ -1,10 +1,10 @@
-Solutry - Secure IT solutions
+HiBits - Secure IT solutions
 
 
 
 # HEADER
 
-alt = Solutry logo
+alt = HiBits logo
 
 <ion-icon name="menu-outline"></ion-icon>
 <ion-icon name="close-outline"></ion-icon>
@@ -131,7 +131,7 @@ Subscribe Now
 
 # FOOTER
 
-alt = Solutry logo
+alt = HiBits logo
 
 Lorem ipsum dolor sit amet, consectetur, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua minim.
 
@@ -155,7 +155,7 @@ Medical
 Contact with us
 
 <ion-icon name="mail-outline"></ion-icon>
-hello@solutry.com
+hello@HiBits.com
 
 <ion-icon name="call-outline"></ion-icon>
 +1-485-456-0102
